@@ -1,2 +1,3 @@
 # Qtool
-Qoolkit
+
+python toolkit for atmospheric science
