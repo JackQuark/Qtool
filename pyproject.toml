@@ -1,0 +1,15 @@
+[project]
+name = "qtool"
+version = "0.0.1"
+authors = [
+  { name="Quark", email="yen169054@gmail.com" },
+]
+description = "qtool"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICENSE*"]
