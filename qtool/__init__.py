@@ -17,5 +17,5 @@ import sys
 sys.path.append(__file__[:-12])
 
 from . import math
-from . import nctools
+# from . import nctools
 from . import thermo

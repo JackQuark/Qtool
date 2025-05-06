@@ -20,3 +20,4 @@ from .base       import *
 from .de         import *
 from .polynomial import *
 from .vector     import *
+from .numerical  import *
